@@ -23,7 +23,7 @@ compress_html:
     envs: [travis]
 # theme
 noita:
-  name: Noita
+  name: esmianalisis
   description: Jekyll theme built with Foundation
   author:
     name: Antonio Smith
