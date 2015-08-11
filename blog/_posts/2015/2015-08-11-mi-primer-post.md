@@ -1,7 +1,7 @@
 ---
 title: "Primer Post de Esmianalisis. Bienvenidos todos!"
 layout: post
-description: "The loader is more shady than a palm tree on a beach. I’m mad scared of South Africa."
+description: "Esta es una pequena descripcion del articulo......"
 robots: none
 ---
 
