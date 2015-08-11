@@ -1,16 +1,25 @@
 ---
-layout: layout
-title: "Posts"
+layout: default
+title: Noita
 ---
 
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</section>
+<div class="row">
+  <div class="column">
+    <h3 class="subheader"><a href="http://jekyllrb.com/">Jekyll</a> theme built
+    with <a href="http://foundation.zurb.com/">Foundation</a></h3>
+  </div>
+</div>
+
+<div class="row">
+  <div class="columns">
+    <h2 id="blog">Blog</h2>
+  </div>
+  <div class="medium-8 columns">
+    {% include noita/posts-short.html %}
+  </div>
+  <div class="medium-4 columns">
+    <div data-alert class="alert-box warning round">
+      <a href="#blog" class="close">&times;</a>Dummy content
+    </div>
+  </div>
+</div>
