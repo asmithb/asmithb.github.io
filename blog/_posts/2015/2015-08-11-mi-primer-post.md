@@ -5,7 +5,7 @@ description: "Esta es una pequena descripcion del articulo......"
 robots: none
 ---
 
-You gotta open with Hussey or come down. [The Emerging Global Web][1] presentation is eye-opening. Uh, the Navy found a way to affordably crack seawater into fuel? This seems like “a big deal”. In all seriousness though, the stuff sounds awesome. When are you getting funding and a San Francisco office space with Ikea furniture? I’m a Core Data newbie. What’s the best way for me to pick it up in your opinion?
+Eso es todo. escribeeeeeeee.You gotta open with Hussey or come down. [The Emerging Global Web][1] presentation is eye-opening. Uh, the Navy found a way to affordably crack seawater into fuel? This seems like “a big deal”. In all seriousness though, the stuff sounds awesome. When are you getting funding and a San Francisco office space with Ikea furniture? I’m a Core Data newbie. What’s the best way for me to pick it up in your opinion?
 
 > Foundation is truly mobile first, natively built on Sass, optimized for responsive, has a tight community, and has one sharp Yeti.
 >
