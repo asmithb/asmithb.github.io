@@ -1,15 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Antonio Smith</title>
+---
+layout: layout
+title: "Posts"
+---
 
-
-
-<body>
-<h1>Hola bebes. Los super amo.</h1>
-<img src="smith.jpg" />
-
-<h2>Antonio</h2>
-</body>
-</html>
+<section class="content">
+  <ul class="listing">
+    {% for post in site.posts %}
+      {% unless post.draft %}
+      <li>
+        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</section>

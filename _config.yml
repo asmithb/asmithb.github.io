@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Antonio Smith
+url: http://www.esmianalisis.com
+description: Pensamientos en geopolitica.
+twitter: asmithb
