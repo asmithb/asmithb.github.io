@@ -11,29 +11,14 @@ robots: none
 ---
 
 
-
-
-
-
-Para empezar a desarrollar cada uno de los artículos de este blog es preciso definir varios
-conceptos. De nada sirve dar ideas de soluciones a problemas de políticas públicas sin saber qué
-incentivos y capacidades tienen quienes deben tomar esas decisiones. Para ello es fundamental
-entender lo que significa la buena gobernanza (good governance en inglés), la cual mide la calidad
-de los gobiernos.
-[Según el politólogo Francis Fukuyama] (http://governancejournal.net/2013/03/04/fukuyama-askswhat-is-governance/),
-la buena gobernanza está definida como la capacidad que poseen los
-Estados de diseñar reglas y proveer servicios públicos, independiente de la naturaleza democrática
-o no democrática de dicho gobierno.
-Para los politólogos Rothstein y Teorell (http://governancejournal.net/2013/03/05/rothstein-onwhat-is-governance),
-la calidad de gobierno está definida como la imparcialidad de las
+[Según el politólogo Francis Fukuyama][1], la buena gobernanza está definida como la capacidad que poseen los Estados de diseñar reglas y proveer servicios públicos, independiente de la naturaleza democrática o no democrática de dicho gobierno. [Para los politólogos Rothstein y Teorell][2], la calidad de gobierno está definida como la imparcialidad de las
 instituciones que ejercen la autoridad gubernamental. De esta manera, al implementar leyes y
 políticas, los funcionarios públicos no deben tomar en consideración ningún aspecto del ciudadano
 que no esté estipulado en las leyes o la política públicas.
 La buena gobernanza por ende está asociada a la calidad institucional de un país. Cuando
-nos referimos a instituciones, usamos la [definición del economista Douglas North]
-(http://www.washington.edu/research/showcase/1960a.html). Él define las instituciones como las
-reglas de juego que limitan la acción humana. Estas reglas pueden ser formales (leyes,
-reglamentos, constituciones, regulaciones) o informales (normas y convenciones sociales).
+nos referimos a instituciones, usamos la [definición del economista Douglas North][3]. Él define las instituciones como las reglas de juego que limitan la acción humana. Estas reglas pueden ser formales (leyes, reglamentos, constituciones, regulaciones) o informales (normas y convenciones sociales).
+
+
 Para comprender la importancia de las instituciones en el desarrollo económico, vayamos con
 ejemplos sencillos. Supongamos que usted posee un capital que quiere invertir en un país X o en
 otro Y. El país X se caracteriza por ser altamente corrupto, el sistema judicial es un apéndice del
@@ -111,4 +96,9 @@ hacerlo debemos primero implementar reformas destinadas a fortalecer el estado d
 control de la corrupción, y la efectividad del gobierno, que a fin de cuentas están estrechamente
 vinculadas con la imparcialidad de los organismos que conforman la administración pública.
 Tenemos que luchar por un gobierno de leyes, y no uno de hombres. He ahí la clave para generar
-progreso y sostenerlo en el tiempo. 
+progreso y sostenerlo en el tiempo.
+
+
+[1]: http://governancejournal.net/2013/03/04/fukuyama-askswhat-is-governance/
+[2]: http://governancejournal.net/2013/03/05/rothstein-onwhat-is-governance
+[3]: http://www.washington.edu/research/showcase/1960a.html
