@@ -36,7 +36,7 @@ El Banco Mundial ha compilado una batería de indicadores a nivel mundial sobre 
 
 He aquí algunos ejemplos de 4 de estos indicadores a nivel mundial. Se observará cómo los países más desarrollados del mundo son aquellos que poseen los mejores indicadores de calidad institucional. 
 
-En la imagen inferior se aprecia la situación del control de la corrupción y del estado de derecho (rule of law) para el año 2013, según los indicadores WGI 
+En la imagen inferior se aprecia la efectivdad de los gobiernos y la calidad de las regulaciones a nivel mundial según los indicadores WGI para el año 2013:
 
 ![Banco mundial data](/assets/1.png)
 
