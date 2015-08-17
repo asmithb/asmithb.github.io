@@ -32,14 +32,15 @@ Por último, la parcialidad de las instituciones políticas también disminuye l
 pobres desempeños económicos, lo cual incentiva a los jóvenes de clase media con estudios superiores a migrar. En segundo lugar, ¿para qué formarme como universitario o técnico en la carrera X si para poder ser próspero en ese país debo estar bien conectado con los gobernantes de turno o tener las conexiones "adecuadas" para obtener un buen trabajo o prosperar en un negocio? Este caso es muy evidente en la administración pública en los países donde no existe el
 acceso meritocrático mediante la ley del servicio civil a los empleos que conforman la burocracia estatal. Los países mejor gobernados del mundo poseen una burocracia meritocrática y autónoma, que perdura en el tiempo independientemente del gobierno de turno.
 
-El Banco Mundial ha compilado una batería de indicadores a nivel mundial sobre la calidad de la gobernanza a nivel mundial, llamados Worldwide Governance Indicators (WGI). Entre los indicadores se encuentran: voz y rendición de cuentas, capacidad regulatoria, estado de derecho, efectividad del gobierno, control de la corrupción y estabilidad política y ausencia de violencia. Estos indicadores fueron calculados en base a encuestas a expertos, así como a ciudadanos y empresarios que han tenido que hacer negocios en cada uno de los países estudiados.
+El Banco Mundial ha compilado una batería de indicadores a nivel mundial sobre la calidad de la gobernanza a nivel mundial, llamados Worldwide Governance Indicators (WGI). Entre los indicadores se encuentran: voz y rendición de cuentas; capacidad regulatoria; estado de derecho; efectividad del gobierno; control de la corrupción; estabilidad política y ausencia de violencia. Estos indicadores fueron calculados en base a encuestas a expertos, así como a ciudadanos y empresarios que han tenido que hacer negocios en cada uno de los países estudiados.
 
-He aquí algunos ejemplos de 4 de estos indicadores a nivel mundial. Se observará cómo los países más desarrollados del mundo son aquellos que poseen los mejores indicadores de calidad institucional. En la imagen inferior se observa la situación del control de la corrupción y del estado de derecho para el año 2013, según los indicadores WGI del Banco Mundial: 
+He aquí algunos ejemplos de 4 de estos indicadores a nivel mundial. Se observará cómo los países más desarrollados del mundo son aquellos que poseen los mejores indicadores de calidad institucional. 
+
+En la imagen inferior se aprecia la situación del control de la corrupción y del estado de derecho (rule of law) para el año 2013, según los indicadores WGI 
 
 ![Banco mundial data](/assets/1.png)
 
-En esta otra imagen vemos la efectividad de los gobiernos y la calidad de las regulaciones a nivel
-mundial según los indicadores de WGI: 
+Por último, En la imagen inferior se aprecia la situación del control de la corrupción y del estado de derecho (rule of law) para el año 2013, según los indicadores WGI
 
 ![Banco mundial data 2](/assets/2.png)
 
