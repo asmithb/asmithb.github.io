@@ -19,7 +19,7 @@ III. En tercer lugar, para subsistir en sociedades con funcionarios corruptos y 
 En conclusión, en sociedades altamente corruptas una persona concluye que no se puede confiar en la mayoría de los individuos que conforman su entorno, ya que de alguna u otra manera los individuos corruptos o tramposos pudieran salirse con la suya. El caso más extremo de niveles bajos de capital social se observa en países donde por temor al crimen un individuo no se detiene en la vía para ayudar a otro que se encuentra accidentado. También se observa cuando un camión de alimentos al accidentarse es saqueado por un grupo de personas mientras el conductor agoniza y minutos más tarde fallece sin ser socorrido. En estas sociedades también se observa cómo los puestos en las empresas son asignados a amigos de confianza o familiares, ya que existe muy poca confianza con los desconocidos. 
 La corrupción sucede cuando un funcionario público viola el principio de imparcialidad para obtener beneficios particulares. Es por ello que la corrupción constituye una antítesis al concepto de calidad de gobierno que estamos tomando en cuenta. 
 
-El crecimiento y el desarrollo económico 
+## El crecimiento y el desarrollo económico
 
 La imparcialidad de las instituciones políticas afectaría directamente los determinantes del crecimiento económico que se explican a continuación:
 
